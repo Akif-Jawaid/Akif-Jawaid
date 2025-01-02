@@ -8,7 +8,7 @@
 
 <p>🚀 Crafting bug-free solutions since 2020 <br>
 🌱 Currently diving deep into Node.js for backend and React.js for frontend <br>
-🎯 Goal: Mastering the art of bug-finding and resolution, evolving into a seasoned coder-engineer 😊 <br>
+🎯 Goal: Mastering the art of bug-finding and resolution, evolving into a seasoned coder-engineer <br>
 💡 Fun Fact: Coding is not just my job, it's my passion! 💻</p>
 
 <h2 >Tech Stacks</h2>
